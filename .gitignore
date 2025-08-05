@@ -2,3 +2,4 @@ build
 dist
 fluxguard.egg-info
 venv
+setup.py
