@@ -15,7 +15,7 @@ setup(
     description='Library for monitoring and adapting asynchronous Python code',
     long_description=open('README.md').read() if os.path.exists('README.md') else '',
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/ksen145/fluxguard',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
